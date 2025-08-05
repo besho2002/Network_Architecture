@@ -25,10 +25,15 @@ This network security lab incorporates several core Layer 2 and Layer 3 technolo
 
 Below are some visual references from the lab:
 
+##       HSRP
 ![HSRP](project-files/images/1.jpg)
+##      Topology
 ![Topology](project-files/images/2.jpg)
+##      Vlans Content
 ![Vlans Content](project-files/images/3.jpg)
+##      EtherChannel
 ![EtherChannel](project-files/images/4.jpg)
+##      Eigrp & Virtual Router
 ![Eigrp & Virtual Router](project-files/images/5.jpg)
 
 
